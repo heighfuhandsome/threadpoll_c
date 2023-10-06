@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/xj/projects/threadpoll/build",
+  "command": "/usr/bin/gcc  -I/home/xj/projects/threadpoll/inc -g -o CMakeFiles/threadpoll.dir/src/main.c.o -c /home/xj/projects/threadpoll/src/main.c",
+  "file": "/home/xj/projects/threadpoll/src/main.c"
+},
+{
+  "directory": "/home/xj/projects/threadpoll/build",
+  "command": "/usr/bin/gcc  -I/home/xj/projects/threadpoll/inc -g -o CMakeFiles/threadpoll.dir/src/threadpoll.c.o -c /home/xj/projects/threadpoll/src/threadpoll.c",
+  "file": "/home/xj/projects/threadpoll/src/threadpoll.c"
+}
+]
